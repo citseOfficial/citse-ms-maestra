@@ -10,7 +10,7 @@ spring:
       ddl-auto: none
 
   datasource:
-    url: jdbc:mysql://citse.mysql.database.azure.com:3306/bdo_sg
+    url: jdbc:mysql://citse.mysql.database.azure.com:3306/bdo_maestra
     username: citse@citse
     password: $deployment@upeu7
     driver-class-name: com.mysql.cj.jdbc.Driver
